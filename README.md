@@ -14,11 +14,13 @@ I'm a student in development. Curious and passionate, I'm looking to deepen my k
 ### Top Skills:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2314354C.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat-square&logo=godot-engine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ### Skills:
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2314354C.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,6 +40,6 @@ I'm a student in development. Curious and passionate, I'm looking to deepen my k
 [![GitHub GlazKrovi](https://img.shields.io/github/followers/GlazKrovi?label=follow&style=social)](https://github.com/GlazKrovi)
 
 - 🔭 I'm studying for a computer science degree.
-- 🌱 I’m currently learning **React** ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
+- 🌱 I’m currently learning **React** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlazKrovi&layout=compact&theme=dark&hide_border=true)
