@@ -2,51 +2,82 @@
 
 I'm a student in development. Curious and passionate, I'm looking to deepen my knowledge of web, application and game development.
 
----
+## About Me
+
+[![GitHub GlazKrovi](https://img.shields.io/github/followers/GlazKrovi?label=follow&style=social)](https://github.com/GlazKrovi)
+
+- 🔭 I'm studying for a computer science degree.
+- 🌱 I’m currently learning **React Native**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlazKrovi&layout=compact&theme=dark&hide_border=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GlazKrovi&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GlazKrovi&theme=dark&hide_border=true" width="400">
 </p>
 
----
+## Skills
 
-### Top Skills:
-![TypeScript](https://img.shields.io/badge/TypeScript-%2314354C.svg?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat-square&logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![PlantUML](https://img.shields.io/badge/PlantUML-%2356B597.svg?style=flat-square&logo=plantuml&logoColor=white)
+### Langages
 
-### Skills:
-#### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%2314354C.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23FF0000.svg?style=flat-square&logo=oracle&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![PlantUML](https://img.shields.io/badge/PlantUML-%2356B597.svg?style=flat-square&logo=plantuml&logoColor=white)
+- ![](https://api.iconify.design/devicon:c.svg)
+- ![](https://api.iconify.design/devicon:csharp.svg)
+- ![](https://api.iconify.design/devicon:java-wordmark.svg)
+- ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg)
+- ![](https://api.iconify.design/devicon:php.svg)
+- ![](https://api.iconify.design/devicon:javascript.svg)
+- ![](https://api.iconify.design/devicon:html5-wordmark.svg)
+- ![](https://api.iconify.design/devicon:css3-wordmark.svg)
+- ![](https://api.iconify.design/devicon:typescript.svg)
+- ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) Plantuml (for schematization)
 
-#### Frameworks
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
+### Frameworks
 
-#### Game engines
-![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=flat-square&logo=godot-engine&logoColor=white)
+#### For desktop applications
 
----
+- ![](https://api.iconify.design/logos:gradle.svg) Gradle
+- ![](https://api.iconify.design/devicon:dotnetcore.svg) .Net
 
-### About Me
+#### For web applications
 
-[![GitHub GlazKrovi](https://img.shields.io/github/followers/GlazKrovi?label=follow&style=social)](https://github.com/GlazKrovi)
+- ![](https://api.iconify.design/devicon:laravel-wordmark.svg)
+- ![](https://api.iconify.design/devicon:react-wordmark.svg)
+- ![](https://api.iconify.design/devicon:qwik-wordmark.svg) 
 
-- 🔭 I'm studying for a computer science degree.
-- 🌱 I’m currently learning **Amazon web services**
+### Plugins, libraries, ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlazKrovi&layout=compact&theme=dark&hide_border=true)
+#### Node packages managers
+
+- ![](https://api.iconify.design/devicon:npm-wordmark.svg)
+- ![](https://api.iconify.design/logos:pnpm.svg)
+- ![](https://api.iconify.design/logos:yarn.svg)
+
+#### Node modules
+
+- ![](https://api.iconify.design/devicon:express-wordmark.svg)
+- ![](https://api.iconify.design/devicon:prisma-wordmark.svg) ORM
+- ![](https://api.iconify.design/logos:graphql.svg)
+- ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch
+
+## For mobile
+
+- ![](https://api.iconify.design/devicon:react.svg) React Native
+
+### IDE
+
+- ![](https://api.iconify.design/devicon:vscode-wordmark.svg)   ![](https://api.iconify.design/mdi:star-four-points-outline.svg) 
+- ![](https://api.iconify.design/devicon:androidstudio-wordmark.svg)
+- ![](https://api.iconify.design/devicon:intellij.svg) 
+
+
+### Monorepos
+
+- ![Turborepo](https://api.iconify.design/logos:turborepo.svg) 
+
+### Game engines
+
+- ![Godot](https://api.iconify.design/logos:godot.svg) 
+
+### Cloud Computing
+
+- ![](https://api.iconify.design/logos:aws.svg) 
