@@ -59,7 +59,7 @@ I'm a student in development. Curious and passionate, I'm looking to deepen my k
 - ![](https://api.iconify.design/logos:graphql.svg)
 - ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch
 
-## For mobile
+#### Mobile development
 
 - ![](https://api.iconify.design/devicon:react.svg) React Native
 
