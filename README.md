@@ -1,6 +1,4 @@
-# Hi there! 👋 I'm **GlazKrovi**
-
-I'm a student in development. Curious and passionate, I'm looking to deepen my knowledge of web, application and game development.
+Voici une version mise à jour avec les noms des outils et langages à côté des icônes :
 
 ## About Me
 
@@ -20,64 +18,64 @@ I'm a student in development. Curious and passionate, I'm looking to deepen my k
 
 ### Langages
 
-- ![](https://api.iconify.design/devicon:c.svg)
-- ![](https://api.iconify.design/devicon:csharp.svg)
-- ![](https://api.iconify.design/devicon:java-wordmark.svg)
-- ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg)
-- ![](https://api.iconify.design/devicon:php.svg)
-- ![](https://api.iconify.design/devicon:javascript.svg)
-- ![](https://api.iconify.design/devicon:html5-wordmark.svg)
-- ![](https://api.iconify.design/devicon:css3-wordmark.svg)
-- ![](https://api.iconify.design/devicon:typescript.svg)
-- ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) Plantuml (for schematization)
+- ![](https://api.iconify.design/devicon:c.svg) C
+- ![](https://api.iconify.design/devicon:csharp.svg) C#
+- ![](https://api.iconify.design/devicon:java-wordmark.svg) Java
+- ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript
+- ![](https://api.iconify.design/devicon:php.svg) PHP
+- ![](https://api.iconify.design/devicon:javascript.svg) JavaScript
+- ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5
+- ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3
+- ![](https://api.iconify.design/devicon:typescript.svg) TypeScript
+- ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML
 
 ### Frameworks
 
 #### For desktop applications
 
 - ![](https://api.iconify.design/logos:gradle.svg) Gradle
-- ![](https://api.iconify.design/devicon:dotnetcore.svg) .Net
+- ![](https://api.iconify.design/devicon:dotnetcore.svg) .NET
 
 #### For web applications
 
-- ![](https://api.iconify.design/devicon:laravel-wordmark.svg)
-- ![](https://api.iconify.design/devicon:react-wordmark.svg)
-- ![](https://api.iconify.design/devicon:qwik-wordmark.svg) 
+- ![](https://api.iconify.design/devicon:laravel-wordmark.svg) Laravel
+- ![](https://api.iconify.design/devicon:react-wordmark.svg) React
+- ![](https://api.iconify.design/devicon:qwik-wordmark.svg) Qwik
 
 ### Plugins, libraries, ...
 
-#### Node packages managers
+#### Node package managers
 
-- ![](https://api.iconify.design/devicon:npm-wordmark.svg)
-- ![](https://api.iconify.design/logos:pnpm.svg)
-- ![](https://api.iconify.design/logos:yarn.svg)
+- ![](https://api.iconify.design/devicon:npm-wordmark.svg) npm
+- ![](https://api.iconify.design/logos:pnpm.svg) pnpm
+- ![](https://api.iconify.design/logos:yarn.svg) Yarn
 
 #### Node modules
 
-- ![](https://api.iconify.design/devicon:express-wordmark.svg)
-- ![](https://api.iconify.design/devicon:prisma-wordmark.svg) ORM
-- ![](https://api.iconify.design/logos:graphql.svg)
+- ![](https://api.iconify.design/devicon:express-wordmark.svg) Express
+- ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM)
+- ![](https://api.iconify.design/logos:graphql.svg) GraphQL
 - ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch
 
-#### Mobile development
+#### For mobile development
 
 - ![](https://api.iconify.design/devicon:react.svg) React Native
 
 ### IDE
 
-- ![](https://api.iconify.design/devicon:vscode-wordmark.svg)   ![](https://api.iconify.design/mdi:star-four-points-outline.svg) 
-- ![](https://api.iconify.design/devicon:androidstudio-wordmark.svg)
-- ![](https://api.iconify.design/devicon:intellij.svg) 
-
+- ![](https://api.iconify.design/devicon:vscode-wordmark.svg) Visual Studio Code
+- ![](https://api.iconify.design/mdi:star-four-points-outline.svg) VSCode Extensions
+- ![](https://api.iconify.design/devicon:androidstudio-wordmark.svg) Android Studio
+- ![](https://api.iconify.design/devicon:intellij.svg) IntelliJ IDEA
 
 ### Monorepos
 
-- ![Turborepo](https://api.iconify.design/logos:turborepo.svg) 
+- ![Turborepo](https://api.iconify.design/logos:turborepo.svg) Turborepo
 
 ### Game engines
 
-- ![Godot](https://api.iconify.design/logos:godot.svg) 
+- ![Godot](https://api.iconify.design/logos:godot.svg) Godot
 
 ### Cloud Computing
 
-- ![](https://api.iconify.design/logos:aws.svg) 
+- ![](https://api.iconify.design/logos:aws.svg) AWS
