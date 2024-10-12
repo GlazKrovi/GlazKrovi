@@ -76,6 +76,10 @@ Voici une version mise à jour avec les noms des outils et langages à côté de
 
 - ![Godot](https://api.iconify.design/logos:godot.svg) Godot
 
-### Cloud Computing
+### Cloud computing
 
-- ![](https://api.iconify.design/logos:aws.svg) AWS
+- ![AWS](https://api.iconify.design/logos:aws.svg) AWS
+
+### CI/CD tools
+
+- ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) Gitlab CI
