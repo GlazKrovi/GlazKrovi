@@ -42,7 +42,6 @@
 - ![](https://api.iconify.design/devicon:express-wordmark.svg) Express
 - ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM)
 - ![](https://api.iconify.design/logos:graphql.svg) GraphQL
-- 
 
 #### For mobile development
 
