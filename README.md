@@ -1,16 +1,29 @@
 ## About Me
 
-[![GitHub GlazKrovi](https://img.shields.io/github/followers/GlazKrovi?label=follow&style=social)](https://github.com/GlazKrovi)
-
 - 🔭 I'm studying for a computer science degree.
 - 🌱 I’m currently learning **Unity** ![](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlazKrovi&layout=compact&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlazKrovi&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GlazKrovi&theme=dark&hide_border=true" width="400">
-</p>
+<div align="center">
+
+  <a href="https://github.com/GlazKrovi">
+    <img src="https://img.shields.io/github/followers/GlazKrovi?label=follow&style=social" alt="GitHub GlazKrovi" />
+  </a>
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlazKrovi&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GlazKrovi&show_icons=true&theme=bear" width="400" alt="GitHub Stats" />
+  
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GlazKrovi&theme=dark&hide_border=true" width="400" alt="GitHub Streak" />
+
+</div>
+
 
 ## Skills
 
