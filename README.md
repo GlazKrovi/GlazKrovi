@@ -17,6 +17,8 @@
 
 ## Skills
 
+> **Principe du marteau d'or** : Je privilégie la polyvalence et l'adaptabilité. Mieux vaut connaître une panoplie d'outils adaptés aux besoins que sur-maîtriser un seul outil et l'utiliser pour tout et n'importe quoi. 
+
 <div align="center">
 
 ### Langages
@@ -25,7 +27,7 @@
 | ------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:c.svg) C                    | ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5  | ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML |
 | ![](https://api.iconify.design/devicon:cplusplus.svg) C++          | ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3    | ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript |
-| ![](https://api.iconify.design/devicon:csharp.svg) C#              | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript |                                                                              |
+| ![](https://api.iconify.design/devicon:csharp.svg) C# 🤍              | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript |                                                                              |
 | ![](https://api.iconify.design/devicon:java-wordmark.svg) Java     | ![](https://api.iconify.design/devicon:typescript.svg) TypeScript |                                                                              |
 | ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                   |                                                                              |
 | ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                   |                                                                              |
