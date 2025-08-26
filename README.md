@@ -5,7 +5,7 @@
 </a>
   
 - 🔭 I'm studying for a computer science degree.
-- 🌱 I'm currently learning **ANTLR** ![](https://api.iconify.design/devicon:java.svg)
+- 🌱 I'm currently learning **ANTLR** ![](https://api.iconify.design/vscode-icons:file-type-antlr.svg)
 
 <div align="center">
   <br />
