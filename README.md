@@ -34,13 +34,13 @@
 
 ### Frameworks & Outils
 
-| Desktop                                                     | Web                                                                      | Mobile                                                         |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- |
-| ![](https://api.iconify.design/devicon:dotnetcore.svg) .NET | ![](https://api.iconify.design/devicon:laravel-wordmark.svg) Laravel     | ![](https://api.iconify.design/devicon:react.svg) React Native |
-|                                                             | ![](https://api.iconify.design/devicon:react-wordmark.svg) React         | ![](https://api.iconify.design/logos:expo.svg) Expo            |
-|                                                             | ![](https://api.iconify.design/devicon:express-wordmark.svg) Express     |                                                                |
-|                                                             | ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM) |                                                                |
-|                                                             | ![](https://api.iconify.design/logos:graphql.svg) GraphQL                |                                                                |
+| Desktop                                                     | Web                                                                      | Mobile                                                         | Game Engine                                                           |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ![](https://api.iconify.design/devicon:dotnetcore.svg) .NET | ![](https://api.iconify.design/devicon:laravel-wordmark.svg) Laravel     | ![](https://api.iconify.design/devicon:react.svg) React Native | ![Godot](https://api.iconify.design/logos:godot.svg) Godot |
+|                                                             | ![](https://api.iconify.design/devicon:react-wordmark.svg) React         | ![](https://api.iconify.design/logos:expo.svg) Expo            |                                                                       |
+|                                                             | ![](https://api.iconify.design/devicon:express-wordmark.svg) Express     |                                                                |                                                                       |
+|                                                             | ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM) |                                                                |                                                                       |
+|                                                             | ![](https://api.iconify.design/logos:graphql.svg) GraphQL                |                                                                |                                                                       |
 
 ### Base de données
 
@@ -54,8 +54,8 @@
 
 | IDE                                                                            | Game Engines                                               | Cloud Providers                                      |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------- |
-| ![](https://api.iconify.design/devicon:vscode-wordmark.svg) Visual Studio Code | ![Godot](https://api.iconify.design/logos:godot.svg) Godot | ![AWS](https://api.iconify.design/logos:aws.svg) AWS |
-| ![](https://api.iconify.design/logos:jetbrains.svg) JetBrains IDEs             | ![Unity](https://api.iconify.design/logos:unity.svg) Unity |                                                      |
+| ![](https://api.iconify.design/devicon:vscode-wordmark.svg) Visual Studio Code | ![Unity](https://api.iconify.design/logos:unity.svg) Unity | ![AWS](https://api.iconify.design/logos:aws.svg) AWS |
+| ![](https://api.iconify.design/logos:jetbrains.svg) JetBrains IDEs             |                                                            |                                                      |
 
 ### CI/CD & DevOps
 
