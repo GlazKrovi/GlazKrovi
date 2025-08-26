@@ -5,7 +5,7 @@
 </a>
   
 - 🔭 I'm studying for a computer science degree.
-- 🌱 I'm currently learning **ANTLR** ![](https://img.shields.io/badge/ANTLR-9DC3FF?style=flat&logo=antlr&logoColor=black)
+- 🌱 I'm currently learning **ANTLR** ![](https://api.iconify.design/devicon:java.svg)
 
 <div align="center">
   <br />
