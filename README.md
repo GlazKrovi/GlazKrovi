@@ -17,55 +17,49 @@
 
 ## Skills
 
+<div align="center">
+
 ### Langages
 
-- ![](https://api.iconify.design/devicon:c.svg) C
-- ![](https://api.iconify.design/devicon:cplusplus.svg) C++
-- ![](https://api.iconify.design/devicon:csharp.svg) C#
-- ![](https://api.iconify.design/devicon:java-wordmark.svg) Java
-- ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript
-- ![](https://api.iconify.design/devicon:php.svg) PHP
-- ![](https://api.iconify.design/devicon:python-wordmark.svg) Python
-- ![](https://api.iconify.design/devicon:javascript.svg) JavaScript
-- ![](https://api.iconify.design/devicon:typescript.svg) TypeScript
-- ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5
-- ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3
-- ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML
+| Langages de programmation                                          | Langages web                                                      | Autres                                                                       |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![](https://api.iconify.design/devicon:c.svg) C                    | ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5  | ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML |
+| ![](https://api.iconify.design/devicon:cplusplus.svg) C++          | ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3    | ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript |
+| ![](https://api.iconify.design/devicon:csharp.svg) C#              | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript |                                                                              |
+| ![](https://api.iconify.design/devicon:java-wordmark.svg) Java     | ![](https://api.iconify.design/devicon:typescript.svg) TypeScript |                                                                              |
+| ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                   |                                                                              |
+| ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                   |                                                                              |
 
-### Frameworks
+### Frameworks & Outils
 
-#### For desktop applications
+| Desktop                                                     | Web                                                                      | Mobile                                                         |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| ![](https://api.iconify.design/devicon:dotnetcore.svg) .NET | ![](https://api.iconify.design/devicon:laravel-wordmark.svg) Laravel     | ![](https://api.iconify.design/devicon:react.svg) React Native |
+|                                                             | ![](https://api.iconify.design/devicon:react-wordmark.svg) React         | ![](https://api.iconify.design/logos:expo.svg) Expo            |
+|                                                             | ![](https://api.iconify.design/devicon:express-wordmark.svg) Express     |                                                                |
+|                                                             | ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM) |                                                                |
+|                                                             | ![](https://api.iconify.design/logos:graphql.svg) GraphQL                |                                                                |
 
-- ![](https://api.iconify.design/devicon:dotnetcore.svg) .NET
+### Base de données
 
-#### For web applications
+| Bases de données relationnelles                                            | Recherche full-text                                                   |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ![](https://api.iconify.design/devicon:postgresql-wordmark.svg) PostgreSQL | ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch |
+| ![](https://api.iconify.design/devicon:mysql-wordmark.svg) MySQL           | ![](https://api.iconify.design/logos:opensearch.svg) OpenSearch       |
+| ![](https://api.iconify.design/devicon:sqlite-wordmark.svg) SQLite         |                                                                       |
 
-- ![](https://api.iconify.design/devicon:laravel-wordmark.svg) Laravel
-- ![](https://api.iconify.design/devicon:react-wordmark.svg) React
-- ![](https://api.iconify.design/devicon:express-wordmark.svg) Express
-- ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM)
-- ![](https://api.iconify.design/logos:graphql.svg) GraphQL
+### Outils de développement
 
-#### For mobile development
+| IDE                                                                            | Game Engines                                               | Cloud Providers                                      |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------- |
+| ![](https://api.iconify.design/devicon:vscode-wordmark.svg) Visual Studio Code | ![Godot](https://api.iconify.design/logos:godot.svg) Godot | ![AWS](https://api.iconify.design/logos:aws.svg) AWS |
+| ![](https://api.iconify.design/logos:jetbrains.svg) JetBrains IDEs             | ![Unity](https://api.iconify.design/logos:unity.svg) Unity |                                                      |
 
-- ![](https://api.iconify.design/devicon:react.svg) React Native
-- ![](https://api.iconify.design/logos:expo.svg) Expo
+### CI/CD & DevOps
 
-### IDE
+| CI/CD                                                               | Outils                                                        |
+| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI | ![](https://api.iconify.design/devicon:makefile.svg) Makefile |
 
-- ![](https://api.iconify.design/devicon:vscode-wordmark.svg) Visual Studio Code
-- ![](https://api.iconify.design/logos:jetbrains.svg) JetBrains IDEs (IntelliJ, WebStorm, Rider, etc.)
+</div>
 
-### Game engines
-
-- ![Godot](https://api.iconify.design/logos:godot.svg) Godot
-- ![Unity](https://api.iconify.design/logos:unity.svg) Unity
-
-### Cloud computing
-
-- ![AWS](https://api.iconify.design/logos:aws.svg) AWS
-- ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch
-
-### CI/CD tools
-
-- ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) Gitlab CI
