@@ -5,7 +5,7 @@
 </a>
   
 - 🔭 I'm studying for a computer science degree.
-- 🌱 I’m currently learning **Unity** ![](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+- 🌱 I'm currently learning **ANTLR** ![](https://img.shields.io/badge/ANTLR-9DC3FF?style=flat&logo=antlr&logoColor=black)
 
 <div align="center">
   <br />
@@ -13,7 +13,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=GlazKrovi&show_icons=true&theme=bear" width="400" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GlazKrovi&theme=dark&hide_border=true" width="400" alt="GitHub Streak" />
 </div>
 
 ## Skills
