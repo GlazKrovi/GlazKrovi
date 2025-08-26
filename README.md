@@ -59,7 +59,7 @@
 
 | CI/CD                                                               | Outils                                                        |
 | ------------------------------------------------------------------- | ------------------------------------------------------------- |
-| ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI | ![](https://api.iconify.design/devicon:makefile.svg) Makefile |
+| ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI | ![](https://api.iconify.design/devicon:makefile.svg) Makefile ![](https://img.shields.io/badge/Makefile-FF6B6B?style=flat&logo=gnu&logoColor=white) |
 
 </div>
 
