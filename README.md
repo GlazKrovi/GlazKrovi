@@ -6,6 +6,7 @@
   
 - 🔭 I'm studying for a computer science degree.
 - 🌱 I'm currently learning **ANTLR** ![](https://api.iconify.design/vscode-icons:file-type-antlr.svg)
+- 🏢 I'm part of two GitHub organizations for collaborative projects
 
 <div align="center">
   <br />
@@ -15,9 +16,23 @@
   <br />
 </div>
 
+## Organizations
+
+<div align="center">
+
+### [@Velvetlang](https://github.com/Velvetlang)
+
+_Language and compiler development projects_
+
+### [@Minizilla](https://github.com/Minizilla)
+
+_Companion app and native tools for "Gedzilla, by Numerize"_
+
+</div>
+
 ## Skills
 
-> **Principe du marteau d'or** : Je privilégie la polyvalence et l'adaptabilité. Mieux vaut connaître une panoplie d'outils adaptés aux besoins que sur-maîtriser un seul outil et l'utiliser pour tout et n'importe quoi. 
+> **Principe du marteau d'or** : Je privilégie la polyvalence et l'adaptabilité. Mieux vaut connaître une panoplie d'outils adaptés aux besoins que sur-maîtriser un seul outil et l'utiliser pour tout et n'importe quoi.
 
 <div align="center">
 
@@ -27,20 +42,20 @@
 | ------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:c.svg) C                    | ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5  | ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML |
 | ![](https://api.iconify.design/devicon:cplusplus.svg) C++          | ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3    | ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript |
-| ![](https://api.iconify.design/devicon:csharp.svg) C# 🤍              | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript |                                                                              |
+| ![](https://api.iconify.design/devicon:csharp.svg) C# 🤍           | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript |                                                                              |
 | ![](https://api.iconify.design/devicon:java-wordmark.svg) Java     | ![](https://api.iconify.design/devicon:typescript.svg) TypeScript |                                                                              |
 | ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                   |                                                                              |
 | ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                   |                                                                              |
 
 ### Frameworks & Outils
 
-| Desktop                                                     | Web                                                                      | Mobile                                                         | Game Engine                                                           |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Desktop                                                     | Web                                                                      | Mobile                                                         | Game Engine                                                |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:dotnetcore.svg) .NET | ![](https://api.iconify.design/devicon:laravel-wordmark.svg) Laravel     | ![](https://api.iconify.design/devicon:react.svg) React Native | ![Godot](https://api.iconify.design/logos:godot.svg) Godot |
-|                                                             | ![](https://api.iconify.design/devicon:react-wordmark.svg) React         | ![](https://api.iconify.design/logos:expo.svg) Expo            |                                                                       |
-|                                                             | ![](https://api.iconify.design/devicon:express-wordmark.svg) Express     |                                                                |                                                                       |
-|                                                             | ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM) |                                                                |                                                                       |
-|                                                             | ![](https://api.iconify.design/logos:graphql.svg) GraphQL                |                                                                |                                                                       |
+|                                                             | ![](https://api.iconify.design/devicon:react-wordmark.svg) React         | ![](https://api.iconify.design/logos:expo.svg) Expo            |                                                            |
+|                                                             | ![](https://api.iconify.design/devicon:express-wordmark.svg) Express     |                                                                |                                                            |
+|                                                             | ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM) |                                                                |                                                            |
+|                                                             | ![](https://api.iconify.design/logos:graphql.svg) GraphQL                |                                                                |                                                            |
 
 ### Base de données
 
@@ -59,8 +74,8 @@
 
 ### CI/CD & DevOps
 
-| CI/CD                                                               | Outils                                                        |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| CI/CD                                                               | Outils                                                 |
+| ------------------------------------------------------------------- | ------------------------------------------------------ |
 | ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI | ![](https://api.iconify.design/logos:gnu.svg) Makefile |
 
 </div>
