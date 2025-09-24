@@ -20,13 +20,9 @@
 
 <div align="center">
 
-### [@Velvetlang](https://github.com/Velvetlang)
-
-_Language and compiler development projects_
-
-### [@Minizilla](https://github.com/Minizilla)
-
-_Companion app and native tools for "Gedzilla, by Numerize"_
+| [@Velvetlang](https://github.com/Velvetlang) | [@Minizilla](https://github.com/Minizilla) |
+|-----------------------------------------------|---------------------------------------------|
+| _Language and compiler development projects_  | _Companion app and native tools for "Gedzilla, by Numerize"_ |
 
 </div>
 
