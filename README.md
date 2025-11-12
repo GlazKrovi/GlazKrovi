@@ -4,9 +4,8 @@
     <img src="https://img.shields.io/github/followers/GlazKrovi?label=follow&style=social" alt="GitHub GlazKrovi" />
 </a>
   
-- 🔭 I'm studying for a computer science degree.
-- 🌱 I'm currently learning **ANTLR** ![](https://api.iconify.design/vscode-icons:file-type-antlr.svg)
-- 🏢 I'm part of two GitHub organizations for collaborative projects
+- 🏆 I got my computer science degree.
+- 🌱 I'm currently developing **an assistant app for novel authors**.
 
 <div align="center">
   <br />
@@ -20,9 +19,9 @@
 
 <div align="center">
 
-| [@Velvetlang](https://github.com/Velvetlang) | [@Minizilla](https://github.com/Minizilla) |
-|-----------------------------------------------|---------------------------------------------|
-| _Language and compiler development projects_  | _Companion app and native tools for "Gedzilla, by Numerize"_ |
+| [@Velvetlang](https://github.com/Velvetlang) | [@Minizilla](https://github.com/Minizilla)                   |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| _Language and compiler development projects_ | _Companion app and native tools for "Gedzilla, by Numerize"_ |
 
 </div>
 
@@ -38,7 +37,7 @@
 | ------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:c.svg) C                    | ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5  | ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML |
 | ![](https://api.iconify.design/devicon:cplusplus.svg) C++          | ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3    | ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript |
-| ![](https://api.iconify.design/devicon:csharp.svg) C# 🤍           | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript |                                                                              |
+| ![](https://api.iconify.design/devicon:csharp.svg) C# 🤍           | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript | ![](https://api.iconify.design/vscode-icons:file-type-antlr.svg) ANTLR       |
 | ![](https://api.iconify.design/devicon:java-wordmark.svg) Java     | ![](https://api.iconify.design/devicon:typescript.svg) TypeScript |                                                                              |
 | ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                   |                                                                              |
 | ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                   |                                                                              |
