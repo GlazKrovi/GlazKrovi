@@ -9,9 +9,9 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GlazKrovi&layout=compact&theme=dark&hide_border=true&locale=fr" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=GlazKrovi&theme=monokai" alt="Top Langs" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=GlazKrovi&show_icons=true&theme=bear&hide_border=true&locale=fr" width="400" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlazKrovi&theme=monokai" width="400" alt="GitHub Stats" />
   <br />
 </div>
 
