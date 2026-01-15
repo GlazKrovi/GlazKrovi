@@ -7,7 +7,11 @@
 - 🏆 I got my computer science degree.
 - 🌱 I'm currently developing **an assistant app for novel authors**.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlazKrovi&theme=monokai" width="400" alt="GitHub Stats" />
+<div align="center">
+  <br />
+  <img src="https://metrics.lecoq.io/GlazKrovi?template=classic&base=&languages=1&languages.sections=most-used&config.theme=dark" alt="Top Langs" />
+  <br />
+</div>
 
 ## Organizations
 
