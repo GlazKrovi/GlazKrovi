@@ -25,13 +25,13 @@
 
 ## Skills
 
-> **Principe du marteau d'or** : Je privilégie la polyvalence et l'adaptabilité. Mieux vaut connaître une panoplie d'outils adaptés aux besoins que sur-maîtriser un seul outil et l'utiliser pour tout et n'importe quoi.
+> **Golden Hammer Principle**: I prioritize versatility and adaptability. It is better to know a variety of tools suited to the needs than to over-master a single tool and use it for everything.
 
 <div align="center">
 
-### Langages
+### Languages
 
-| Langages de programmation                                          | Langages web                                                      | Autres                                                                       |
+| Programming Languages                                              | Web Languages                                                     | Others                                                                       |
 | ------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:c.svg) C                    | ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5  | ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML |
 | ![](https://api.iconify.design/devicon:cplusplus.svg) C++          | ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3    | ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript |
@@ -40,7 +40,7 @@
 | ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                   |                                                                              |
 | ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                   |                                                                              |
 
-### Frameworks & Outils
+### Frameworks & Tools
 
 | Desktop                                                     | Web                                                                      | Mobile                                                         | Game Engine                                                |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -50,15 +50,15 @@
 |                                                             | ![](https://api.iconify.design/devicon:prisma-wordmark.svg) Prisma (ORM) |                                                                |                                                            |
 |                                                             | ![](https://api.iconify.design/logos:graphql.svg) GraphQL                |                                                                |                                                            |
 
-### Base de données
+### Databases
 
-| Bases de données relationnelles                                            | Recherche full-text                                                   |
+| Relational Databases                                                       | Full-text Search                                                      |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:postgresql-wordmark.svg) PostgreSQL | ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch |
 | ![](https://api.iconify.design/devicon:mysql-wordmark.svg) MySQL           | ![](https://api.iconify.design/logos:opensearch.svg) OpenSearch       |
 | ![](https://api.iconify.design/devicon:sqlite-wordmark.svg) SQLite         |                                                                       |
 
-### Outils de développement
+### Development Tools
 
 | IDE                                                                            | Game Engines                                               | Cloud Providers                                      |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------- |
@@ -67,7 +67,7 @@
 
 ### CI/CD & DevOps
 
-| CI/CD                                                               | Outils                                                 |
+| CI/CD                                                               | Tools                                                  |
 | ------------------------------------------------------------------- | ------------------------------------------------------ |
 | ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI | ![](https://api.iconify.design/logos:gnu.svg) Makefile |
 
