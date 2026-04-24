@@ -6,6 +6,7 @@
   
 - 🏆 I got my computer science degree.
 - 🌱 I'm currently developing **an assistant app for novel authors**.
+- 📓 I'm currently developing [Tree-sitter framework](https://tree-sitter.github.io/tree-sitter/) 🌳
 
 <div align="center">
   <br />
@@ -39,6 +40,7 @@
 | ![](https://api.iconify.design/devicon:java-wordmark.svg) Java     | ![](https://api.iconify.design/devicon:typescript.svg) TypeScript |                                                                              |
 | ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                   |                                                                              |
 | ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                   |                                                                              |
+| ![](https://api.iconify.design/devicon:go.svg) Go |                                                                   |                                                                              |
 
 ### Frameworks & Tools
 
