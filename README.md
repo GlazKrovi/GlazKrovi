@@ -5,8 +5,8 @@
 </a>
   
 - 🏆 I got my computer science degree.
-- 🌱 I'm currently developing **an assistant app for novel authors**.
-- 📓 I'm currently developing [Tree-sitter framework](https://tree-sitter.github.io/tree-sitter/) 🌳
+- 🌱 I'm currently developing **a custom coding language for project design**.
+- 📓 I'm currently learning [the Tree-sitter framework](https://tree-sitter.github.io/tree-sitter/) 🌳
 
 <div align="center">
   <br />
