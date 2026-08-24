@@ -57,7 +57,7 @@
 | Relational Databases                                                       | Full-text Search                                                      |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:postgresql-wordmark.svg) PostgreSQL | ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch |
-| ![](https://api.iconify.design/devicon:mysql-wordmark.svg) MySQL           | ![](https://api.iconify.design/logos:opensearch.svg) OpenSearch       |
+| ![](https://api.iconify.design/devicon:mysql-wordmark.svg) MySQL / MariaDb           | ![](https://api.iconify.design/logos:opensearch.svg) OpenSearch       |
 | ![](https://api.iconify.design/devicon:sqlite-wordmark.svg) SQLite         |                                                                       |
 
 ### Development Tools
@@ -72,6 +72,7 @@
 | CI/CD                                                               | Tools                                                  |
 | ------------------------------------------------------------------- | ------------------------------------------------------ |
 | ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI | ![](https://api.iconify.design/logos:gnu.svg) Makefile |
+| ![GitHub Actions](https://api.iconify.design/logos:github-actions.svg) GitHub Actions | |
 
 </div>
 
