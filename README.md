@@ -32,15 +32,15 @@
 
 ### Languages
 
-| Programming Languages                                              | Web Languages                                                     | Others                                                                       |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| ![](https://api.iconify.design/devicon:c.svg) C                    | ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5  | ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML |
-| ![](https://api.iconify.design/devicon:cplusplus.svg) C++          | ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3    | ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript |
-| ![](https://api.iconify.design/devicon:csharp.svg) C# 🤍           | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript | ![](https://api.iconify.design/vscode-icons:file-type-antlr.svg) ANTLR       |
+| Programming Languages                                              | Web Languages                                                        | Others                                                                       |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![](https://api.iconify.design/devicon:c.svg) C                    | ![](https://api.iconify.design/devicon:html5-wordmark.svg) HTML5     | ![](https://api.iconify.design/vscode-icons:file-type-plantuml.svg) PlantUML |
+| ![](https://api.iconify.design/devicon:cplusplus.svg) C++          | ![](https://api.iconify.design/devicon:css3-wordmark.svg) CSS3       | ![](https://api.iconify.design/vscode-icons:file-type-gdscript.svg) GDScript |
+| ![](https://api.iconify.design/devicon:csharp.svg) C# 🤍           | ![](https://api.iconify.design/devicon:javascript.svg) JavaScript    | ![](https://api.iconify.design/vscode-icons:file-type-antlr.svg) ANTLR       |
 | ![](https://api.iconify.design/devicon:java-wordmark.svg) Java     | ![](https://api.iconify.design/devicon:typescript.svg) TypeScript 🤍 |                                                                              |
-| ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                   |                                                                              |
-| ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                   |                                                                              |
-| ![](https://api.iconify.design/devicon:go.svg) Go |                                                                   |                                                                              |
+| ![](https://api.iconify.design/devicon:php.svg) PHP                |                                                                      |                                                                              |
+| ![](https://api.iconify.design/devicon:python-wordmark.svg) Python |                                                                      |                                                                              |
+| ![](https://api.iconify.design/devicon:go.svg) Go                  |                                                                      |                                                                              |
 
 ### Frameworks & Tools
 
@@ -57,7 +57,7 @@
 | Relational Databases                                                       | Full-text Search                                                      |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | ![](https://api.iconify.design/devicon:postgresql-wordmark.svg) PostgreSQL | ![](https://api.iconify.design/logos:elasticsearch.svg) Elasticsearch |
-| ![](https://api.iconify.design/devicon:mysql-wordmark.svg) MySQL / MariaDb           | ![](https://api.iconify.design/logos:opensearch.svg) OpenSearch       |
+| ![](https://api.iconify.design/devicon:mysql-wordmark.svg) MySQL / MariaDb | ![](https://api.iconify.design/logos:opensearch.svg) OpenSearch       |
 | ![](https://api.iconify.design/devicon:sqlite-wordmark.svg) SQLite         |                                                                       |
 
 ### Development Tools
@@ -69,10 +69,9 @@
 
 ### CI/CD & DevOps
 
-| CI/CD                                                               | Tools                                                  |
-| ------------------------------------------------------------------- | ------------------------------------------------------ |
-| ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI | ![](https://api.iconify.design/logos:gnu.svg) Makefile |
-| ![GitHub Actions](https://api.iconify.design/logos:github-actions.svg) GitHub Actions | |
+| CI/CD                                                                                 | Tools                                                  |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| ![Gitlab CI](https://api.iconify.design/logos:gitlab.svg) GitLab CI                   | ![](https://api.iconify.design/logos:gnu.svg) Makefile |
+| ![GitHub Actions](https://api.iconify.design/logos:github-actions.svg) GitHub Actions |                                                        |
 
 </div>
-
