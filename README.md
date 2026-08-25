@@ -6,7 +6,7 @@
   
 - 🏆 I got my computer science degree.
 - 🌱 I'm currently developing **a custom coding language for project design**.
-- 📓 I'm currently learning [the Tree-sitter framework](https://tree-sitter.github.io/tree-sitter/) 🌳
+- 📓 I'm currently learning [Three.js](https://threejs.org/)
 
 <div align="center">
   <br />
@@ -62,10 +62,10 @@
 
 ### Development Tools
 
-| IDE                                                                            | Game Engines                                               | Cloud Providers                                      |
-| ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------- |
-| ![](https://api.iconify.design/devicon:vscode-wordmark.svg) Visual Studio Code | ![Unity](https://api.iconify.design/logos:unity.svg) Unity | ![AWS](https://api.iconify.design/logos:aws.svg) AWS |
-| ![](https://api.iconify.design/logos:jetbrains.svg) JetBrains IDEs             |                                                            |                                                      |
+| IDE                                                                            | Language Creation Tools                                                    | Game Engines                                               | Cloud Providers                                      |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
+| ![](https://api.iconify.design/devicon:vscode-wordmark.svg) Visual Studio Code | ![](https://api.iconify.design/game-icons:treehouse.svg) Tree-sitter | ![Unity](https://api.iconify.design/logos:unity.svg) Unity | ![AWS](https://api.iconify.design/logos:aws.svg) AWS |
+| ![](https://api.iconify.design/logos:jetbrains.svg) JetBrains IDEs             |                                                                   |                                                            |                                                      |
 
 ### CI/CD & DevOps
 
