@@ -5,8 +5,8 @@
 </a>
   
 - 🏆 I got my computer science degree.
-- 🌱 I'm currently developing **a custom coding language for project design**.
-- 📓 I'm currently learning [Three.js](https://threejs.org/)
+- 🌱 I'm currently developing **a custom general-purpose coding language**.
+- 📓 I'm currently learning [langium](https://langium.org/)
 
 <div align="center">
   <br />
